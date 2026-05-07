@@ -1,3 +1,5 @@
+[**English**](README.md) | [Українська](README.uk.md)
+
 # Python - Functions Practice
 
 Three short exercises practicing Python functions, dates, randomness, and dict/list comprehensions.
